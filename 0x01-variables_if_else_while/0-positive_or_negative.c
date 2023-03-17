@@ -3,6 +3,11 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/*
+ * main is the entry point of the program.
+ * the program prints whether the number generated is positive, negative or equal to zero.
+ */
+
 /* betty style doc for function main goes there */
 int main(void)
 {
