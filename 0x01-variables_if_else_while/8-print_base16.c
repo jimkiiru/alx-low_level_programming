@@ -2,14 +2,15 @@
 
 /**
 * main - entry point
-* 
+*
 * Description: Hexadecimal
-* @void: 
-* 
+* @void:
+*
 * Return: returns zero after succesfull execution
 */
-int main(void) {
- 
+int main(void)
+{
+
 	int i;
 
 	for (i = 0; i < 16; i++)
@@ -26,5 +27,4 @@ int main(void) {
 	putchar('\n');
 
 	return (0);
-
 }	
