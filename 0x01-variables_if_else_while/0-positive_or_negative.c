@@ -4,11 +4,10 @@
 /* more headers goes there */
 
 /*
- * main is the entry point of the program.
- * the program prints whether the number generated is positive, negative or equal to zero.
+ * main - is the entry point of the program.
+ * Description: prints whether the number generated is positive, negative or zero.
+ * Return: always zero(0)
  */
-
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
