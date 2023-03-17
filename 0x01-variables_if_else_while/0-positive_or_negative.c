@@ -3,10 +3,11 @@
 #include <stdio.h>
 /* more headers goes there */
 
-/*
- * main - is the entry point of the program.
+/**
+ * main - entry point of the program.
  * Description: prints whether the number generated is positive/negative/zero.
  * @void:
+ *
  * Return: always zero(0)
  */
 int main(void)
