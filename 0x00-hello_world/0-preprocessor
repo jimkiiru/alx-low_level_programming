@@ -1,4 +1,2 @@
 #!/bin/bash
-CFILE="example.c"
-OUTPUT="c"
-cpp $CFILE > $OUTPUT
+CFILE="example.c"; OUTPUT="c"; cpp $CFILE > $OUTPUT
